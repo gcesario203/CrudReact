@@ -1,11 +1,19 @@
 {
-    "users":[{
-        "id":1,
-        "name":"Gabriel Cesario",
-        "email":"cesario@x.com"
-    },{
-        "id":2,
-        "name":"Amanda Carolina",
-        "email":"amanda@x.com"
-    }]
+  "users": [
+    {
+      "id": 1,
+      "name": "Gabriel Cesario",
+      "email": "cesario@x.com"
+    },
+    {
+      "id": 2,
+      "name": "Amanda Carolina",
+      "email": "amanda@x.com"
+    },
+    {
+      "name": "Pedro Trinca",
+      "email": "trinca@x.com",
+      "id": 3
+    }
+  ]
 }
